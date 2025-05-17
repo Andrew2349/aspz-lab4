@@ -109,12 +109,19 @@ newptr = realloc(ptr, 500*sizeof(struct sbar));
 Результат: 
 
 Перша версія:
+
 ![image](https://github.com/user-attachments/assets/65e3fb95-d77b-4fb5-ae41-5b41ef7b75a7)
+
 Друга версія:
+
 ![image](https://github.com/user-attachments/assets/e32cf30a-e9c7-49ad-bc76-77994fc24c80)
+
 Результат роботи першої:
+
 ![image](https://github.com/user-attachments/assets/0e9ca448-3517-45e0-b0e8-904a37a84596)
+
 Результат роботи другої:
+
 ![image](https://github.com/user-attachments/assets/fc6d209a-bbe9-4a50-ab72-dfe75668dd11)
 
 
